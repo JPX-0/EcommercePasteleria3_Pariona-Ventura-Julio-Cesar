@@ -1,0 +1,16 @@
+// █ █▄ ▄█ █▀▄ ▄▀▄ █▀▄ ▀█▀ ▄▀▄ █▄ █ ▀█▀ 
+// █ █ ▀ █ █▀  ▀▄▀ █▀▄  █  █▀█ █ ▀█  █  
+@import "./components/sass/reset";
+@import "./components/sass/variable";
+
+// ▄▀  ██▀ █▄ █ ██▀ █▀▄ ▄▀▄ █   
+// ▀▄█ █▄▄ █ ▀█ █▄▄ █▀▄ █▀█ █▄▄ 
+@import "./components/sass/base";
+
+// █▄█ ██▀ ▄▀▄ █▀▄ ██▀ █▀▄ 
+// █ █ █▄▄ █▀█ █▄▀ █▄▄ █▀▄ 
+@import "./components/navbar/header";
+
+// █▄ ▄█ ▄▀▄ █ █▄ █ 
+// █ ▀ █ █▀█ █ █ ▀█ 
+@import "./components/main/main";
